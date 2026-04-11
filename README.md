@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="Enclave" width="100%" />
+
 # Enclave
 
 **On-chain spend control and trust layer for autonomous AI agents**
